@@ -1,16 +1,15 @@
 # Google-Udacity-Scholar-JavaScript
 
-<<<<<<< HEAD
-###Data Types & Variables
-1. **One Awesome Message**
-
-###Conditionals
-=======
 ### Data Types & Variables
 1. **One Awesome Message**
 
 ### Conditionals
->>>>>>> 008bf497c7ce7162e5a8e68d135e892435430751
+
+### Data Types & Variables
+1. **One Awesome Message**
+
+### Conditionals
+
 2. **Musical Groups**
 3. **Murder Mystery**
 4. **Checking your Balance**
